@@ -1,0 +1,4 @@
+Notebook,3500.0,8
+Smartphone,2200.0,7
+Mouse Gamer,150.0,8
+Tablet,1799.0,13
