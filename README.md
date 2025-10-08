@@ -61,12 +61,13 @@ Escrever código limpo e reutilizável.
 ---
 
 ## 📈 Progresso Atual
-Módulo	Status	Observações
-Aula 01 - Fundamentos	✅ Concluído	Conceitos básicos de variáveis e operadores
-Aula 02 - Estruturas de Controle	✅ Concluído	Condições e loops
-Aula 03 - Métodos	✅ Concluído	Modularização e boas práticas
-Aula 04 - POO (Herança e Polimorfismo)	✅ Concluído	Classes, herança, polimorfismo aplicados
-Aula 05 - Exceções	🟡 Em andamento	Tratamento de erros personalizados
-Aula 06 - Collections	⏳ Próximo	Estruturas de dados e generics
-Aula 07 - Threads	⏳ Futuro	Paralelismo e multitarefa
-Projetos Finais	⏳ Futuro	Integração de todos os módulos
+| Módulo | Status | Observações |
+|:-------|:--------|:------------|
+| Aula 01 - Fundamentos | ✅ Concluído | Conceitos básicos de variáveis e operadores |
+| Aula 02 - Estruturas de Controle | ✅ Concluído | Condições e loops |
+| Aula 03 - Métodos | ✅ Concluído | Modularização e boas práticas |
+| Aula 04 - POO (Herança e Polimorfismo) | ✅ Concluído | Classes, herança, polimorfismo aplicados |
+| Aula 05 - Exceções | 🟡 Em andamento | Tratamento de erros personalizados |
+| Aula 06 - Collections | ⏳ Próximo | Estruturas de dados e generics |
+| Aula 07 - Threads | ⏳ Futuro | Paralelismo e multitarefa |
+| Projetos Finais | ⏳ Futuro | Integração de todos os módulos |
