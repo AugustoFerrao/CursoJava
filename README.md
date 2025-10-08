@@ -76,3 +76,10 @@ Escrever código limpo e reutilizável.
 | Aula 06 - Collections | ⏳ Próximo | Estruturas de dados e generics |
 | Aula 07 - Threads | ⏳ Futuro | Paralelismo e multitarefa |
 | Projetos Finais | ⏳ Futuro | Integração de todos os módulos |
+
+---
+
+##📫 Contato
+
+Autor: Augusto Ferrão
+GitHub: github.com/AugustoFerrao
