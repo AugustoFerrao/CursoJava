@@ -83,7 +83,7 @@ Escrever código limpo e reutilizável.
 
 Este repositório acompanha os estudos realizados no curso:
 
-**[Java - Curso Completo](https://www.udemy.com/course/java-curso-completo/learn/lecture/10793850#overview)**  
+**[Java - Curso Completo](https://www.udemy.com/course/java-curso-completo/)**  
 Udemy – Curso completo de Java, cobrindo desde fundamentos até tópicos avançados como POO, tratamento de exceções, coleções e threads.
 
 
