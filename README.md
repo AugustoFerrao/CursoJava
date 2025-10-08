@@ -1,3 +1,8 @@
+[![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)](https://github.com/AugustoFerrao/CursoJava)
+[![Java](https://img.shields.io/badge/Java-21-blue)](https://www.oracle.com/java/)
+[![IDE](https://img.shields.io/badge/IDE-Eclipse-<COLOR>)](https://www.eclipse.org/)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+
 # ☕ CursoJava
 
 Estudos e projetos desenvolvidos durante o aprendizado da linguagem **Java 21**, com foco em boas práticas, fundamentos sólidos e aplicações práticas dos principais conceitos da linguagem.
