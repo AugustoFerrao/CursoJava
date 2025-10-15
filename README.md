@@ -68,17 +68,26 @@ Escrever código limpo e reutilizável.
 ## 📈 Progresso Atual
 | Módulo | Status | Observações |
 |:-------|:--------|:------------|
-| Aula 01 - Fundamentos | ✅ Concluído | Conceitos básicos de variáveis e operadores |
-| Aula 02 - Estruturas de Controle | ✅ Concluído | Condições e loops |
-| Aula 03 - Métodos | ✅ Concluído | Modularização e boas práticas |
-| Aula 04 - POO (Herança e Polimorfismo) | ✅ Concluído | Classes, herança, polimorfismo aplicados |
-| Aula 05 - Exceções | 🟡 Em andamento | Tratamento de erros personalizados |
-| Aula 06 - Collections | ⏳ Próximo | Estruturas de dados e generics |
-| Aula 07 - Threads | ⏳ Futuro | Paralelismo e multitarefa |
+| Fundamentos | ✅ Concluído | Conceitos básicos de variáveis e operadores |
+| Estruturas de Controle | ✅ Concluído | Condições e loops |
+| Métodos | ✅ Concluído | Modularização e boas práticas |
+| POO (Herança e Polimorfismo) | ✅ Concluído | Classes, herança, polimorfismo aplicados |
+| Exceções | 🟡 Em andamento | Tratamento de erros personalizados |
+| Collections | ⏳ Próximo | Estruturas de dados e generics |
+| Threads | ⏳ Futuro | Paralelismo e multitarefa |
 | Projetos Finais | ⏳ Futuro | Integração de todos os módulos |
 
 ---
 
+## 📚 Curso de Referência
+
+Este repositório acompanha os estudos realizados no curso:
+
+**[Java - Curso Completo](https://www.udemy.com/course/java-curso-completo/)**  
+Udemy – Curso completo de Java, cobrindo desde fundamentos até tópicos avançados como POO, tratamento de exceções, coleções e threads.
+
+
+---
 ## 📫 Contato
 
 Autor: Augusto Ferrão
