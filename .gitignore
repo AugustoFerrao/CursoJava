@@ -1,0 +1,93 @@
+############################
+# COMPILAÇÃO JAVA
+############################
+# Arquivos compilados
+*.class
+*.war
+*.ear
+*.jar
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.swo
+*~
+
+############################
+# SISTEMAS OPERACIONAIS
+############################
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+############################
+# INTELLIJ IDEA
+############################
+.idea/
+*.iml
+out/
+
+############################
+# ECLIPSE
+############################
+.project
+.classpath
+.settings/
+bin/
+
+############################
+# NETBEANS
+############################
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nbm/
+
+############################
+# MAVEN
+############################
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+
+############################
+# GRADLE
+############################
+.gradle/
+build/
+gradle-app.setting
+
+# War/ZIP gerados
+*.war
+*.zip
+
+############################
+# VS CODE
+############################
+.vscode/
+
+############################
+# OUTROS
+############################
+# Arquivos de ambiente
+.env
+*.env
+
+# Arquivos de backup
+*.bak
+
+# Diretórios de cache
+cache/
