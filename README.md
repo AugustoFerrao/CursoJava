@@ -72,8 +72,8 @@ Escrever código limpo e reutilizável.
 | Estruturas de Controle | ✅ Concluído | Condições e loops |
 | Métodos | ✅ Concluído | Modularização e boas práticas |
 | POO (Herança e Polimorfismo) | ✅ Concluído | Classes, herança, polimorfismo aplicados |
-| Exceções | 🟡 Em andamento | Tratamento de erros personalizados |
-| Collections | ⏳ Próximo | Estruturas de dados e generics |
+| Exceções | ✅ Concluído | Tratamento de erros personalizados |
+| Collections | 🟡 Em andamento | Estruturas de dados e generics |
 | Threads | ⏳ Futuro | Paralelismo e multitarefa |
 | Projetos Finais | ⏳ Futuro | Integração de todos os módulos |
 
